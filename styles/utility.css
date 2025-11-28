@@ -32,15 +32,19 @@
     display: grid;
     gap: 1rem;
 }
-.grid{
+
+.grid {
     display: grid;
 }
-.flex{
+
+.flex {
     display: flex;
 }
-.gap-1{
-    gap:1rem;
+
+.gap-1 {
+    gap: 1rem;
 }
+
 @media (width >=80em) {
     .container {
         --max-width: 80em;
