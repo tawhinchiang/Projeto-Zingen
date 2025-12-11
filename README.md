@@ -158,8 +158,22 @@ Containers padronizados
 └── assets/
 
 🖼 Preview do Projeto
+DESKTOP:
+![Imagem do WhatsApp de 2025-12-11 à(s) 11 39 16_20373d58](https://github.com/user-attachments/assets/441e6223-8f71-4eaf-8195-dbccbb908293)
+![Imagem do WhatsApp de 2025-12-11 à(s) 11 39 38_7a4dabab](https://github.com/user-attachments/assets/7eeea321-d82c-4a5c-9416-c14bb91a4eb7)
+![Imagem do WhatsApp de 2025-12-11 à(s) 11 40 31_dbc7e487](https://github.com/user-attachments/assets/6d36034a-7099-467c-96b3-8cc879a497db)
+![Imagem do WhatsApp de 2025-12-11 à(s) 11 41 00_1b3d1644](https://github.com/user-attachments/assets/d02edf53-2c6d-4691-8542-7e008763d1d5)
 
-(Adicione aqui prints da sua interface, se quiser deixar o README ainda mais profissional.)
+MOBILE:
+![Imagem do WhatsApp de 2025-12-11 à(s) 11 44 58_32a0bdbb](https://github.com/user-attachments/assets/d63a7462-f504-4e33-8b98-18b8411ac48b)
+
+![Imagem do WhatsApp de 2025-12-11 à(s) 11 44 57_60aa9a2f](https://github.com/user-attachments/assets/cb144ed6-4dac-4f56-b40b-69ae0709d339)
+
+![Imagem do WhatsApp de 2025-12-11 à(s) 11 44 57_634d9ce7](https://github.com/user-attachments/assets/9a0e28b5-d4ce-4e94-81b8-655314f3d52b)
+
+![Imagem do WhatsApp de 2025-12-11 à(s) 11 44 56_6ae971e8](https://github.com/user-attachments/assets/69b82da1-4e4e-45c2-b9f3-5af0fad60a46)
+
+
 
 🛠 Como Executar
 
